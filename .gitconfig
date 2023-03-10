@@ -1,0 +1,7 @@
+[alias]
+	graph = log --all --graph --decorate --oneline
+[core]
+	excludesfile = /home/xe-lpt-45/.gitignore_global
+[user]
+	email = abdul.quraishi@10xengineers.ai
+	name = Abdul Rahman Quraishi
